@@ -19,3 +19,4 @@ We model the map as a weighted graph and use **Dijkstra’s Algorithm** to compu
 pip install -r requirements.txt
 streamlit run app.py
 
+<img width="1710" height="1095" alt="image" src="https://github.com/user-attachments/assets/8f9dbab3-b3be-4c64-9f6c-dfa62893896c" />
